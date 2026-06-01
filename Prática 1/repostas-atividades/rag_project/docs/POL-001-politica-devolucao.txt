@@ -1,0 +1,48 @@
+POL-001 - Politica de Devolucao de Mercadorias
+
+Versao: 3.1
+Ultima atualizacao: 15/01/2024
+Responsavel: Diretoria de Operacoes
+Classificacao: Documento normativo - uso obrigatorio pelo time de atendimento
+
+1. Objetivo
+
+Esta politica define as regras e procedimentos para devolucao de mercadorias transportadas pela NovaTech, aplicavel a todos os tipos de cliente e categorias de carga, salvo excecoes explicitamente listadas na secao 3.
+
+2. Escopo
+
+Aplica-se a todas as devolucoes solicitadas por clientes da NovaTech apos a entrega da mercadoria. Nao se aplica a mercadorias ainda em transito (para essas, consultar PROC-088: Procedimento de Interceptacao de Carga).
+
+3. Regras de Devolucao
+
+3.1. Prazo geral
+
+O cliente pode solicitar a devolucao de mercadorias em ate 7 (sete) dias uteis apos a data de recebimento confirmada no sistema de tracking. A contagem de dias uteis exclui sabados, domingos e feriados nacionais.
+
+3.2. Excecoes ao prazo geral
+
+As seguintes categorias de carga NAO sao elegiveis para devolucao pelo processo padrao:
+
+- Cargas perigosas classificadas nas classes 1 a 6 da ANTT (Agencia Nacional de Transportes Terrestres), conforme Resolucao ANTT no 5.947/2021. Inclui: explosivos (classe 1), gases (classe 2), liquidos inflamaveis (classe 3), solidos inflamaveis (classe 4), oxidantes e peroxidos (classe 5), substancias toxicas e infectantes (classe 6).
+- Cargas refrigeradas que tenham rompido a cadeia de frio (temperatura fora da faixa especificada na nota fiscal por mais de 30 minutos continuos, conforme registro do sensor IoT).
+- Cargas com lacre de seguranca violado, salvo quando a violacao for documentada no ato de entrega com assinatura do motorista e do recebedor.
+
+Para essas categorias, o cliente deve entrar em contato com o setor de Gestao de Riscos (ramal 4500) para tratamento individual.
+
+3.3. Procedimento de devolucao
+
+1. O cliente abre chamado no Portal do Cliente (portal.novatech.com.br), selecionando a categoria "Devolucao de Mercadoria".
+2. O chamado deve incluir: numero do CT-e (Conhecimento de Transporte Eletronico), fotos da mercadoria no estado atual (minimo 3 fotos: embalagem externa, etiqueta de identificacao, e conteudo), e motivo da devolucao.
+3. O time de atendimento tem 4 horas uteis para triagem do chamado (verificar elegibilidade, documentacao e prazo).
+4. Se elegivel, a coleta reversa e agendada em ate 2 dias uteis apos aprovacao.
+5. O reembolso ou credito e processado em ate 5 dias uteis apos o recebimento da mercadoria devolvida no centro de distribuicao.
+
+3.4. Devolucoes parciais
+
+Quando a entrega envolver multiplos volumes, o cliente pode devolver volumes individuais. Cada volume devolvido segue o mesmo procedimento da secao 3.3. O calculo de reembolso e proporcional ao peso/valor do volume devolvido, conforme o CT-e.
+
+3.5. Custos de devolucao
+
+- Defeito ou erro da NovaTech (carga errada, avaria em transito): devolucao sem custo para o cliente.
+- Desistencia do cliente (carga correta, sem defeito): o custo do frete reverso e do cliente, calculado com os mesmos multiplicadores do frete original.
+- Prazo expirado (solicitacao apos 7 dias uteis): nao elegivel para devolucao padrao. Encaminhar ao Comercial para negociacao caso a caso.

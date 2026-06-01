@@ -1,0 +1,44 @@
+FAQ-Atendimento - Perguntas Frequentes do Time de Suporte
+
+Versao: Nao controlada
+Ultima atualizacao: Diversas (documento colaborativo)
+Responsavel: Nenhum responsavel formal - mantido informalmente pelo time de atendimento
+Classificacao: Documento informal - NAO validado por Compliance ou Operacoes. Representa o conhecimento pratico do time, mas pode conter informacoes desatualizadas ou imprecisas.
+
+Aviso interno: Este FAQ foi criado organicamente pelo time de atendimento ao longo de 2 anos. As respostas refletem a experiencia pratica dos atendentes, mas NAO foram validadas contra os documentos oficiais (POL, PROC, SLA). Use com cautela e sempre confirme informacoes criticas na documentacao normativa.
+
+Item 3 - "Cliente perguntou se pode devolver carga perigosa. O que respondo?"
+
+Na pratica, a gente orienta o cliente a ligar no ramal 4500 (Gestao de Riscos). Oficialmente nao pode pelo processo padrao, mas ja tiveram casos em que o pessoal de Riscos autorizou excecao. Entao nao diga que e impossivel - diga que precisa de tratamento especial.
+
+Item 8 - "Como funciona o frete especial?"
+
+Acima de 500kg, aplica a tabela de multiplicadores por regiao. Cuidado: existem duas versoes da PROC-042. A mais recente tem multiplicadores mais altos. Na duvida, use a mais recente (v2), mas se o cliente reclamar do valor, pode ser que o contrato dele ainda esteja na tabela antiga.
+
+Item 15 - "Cliente diz que e Platinum. Existe esse tier?"
+
+Nao existe tier Platinum na NovaTech. As vezes o cliente confunde com outra transportadora ou com o programa de fidelidade antigo que foi descontinuado em 2022. Oriente que nossos tiers sao Gold, Silver e Standard e peca o numero do contrato para verificar.
+
+Item 22 - "Cliente quer saber sobre seguro de carga. O que falar?"
+
+A NovaTech oferece seguro de carga como adicional. O valor e 0,3% do valor declarado da mercadoria para cargas padrao e 0,8% para cargas perigosas. Detalhe: isso vale para contratos a partir de 2023. Contratos mais antigos podem ter percentuais diferentes - confirme com o Comercial.
+
+Item 27 - "O tracking mostra em transito ha 5 dias. O que faco?"
+
+Depende da rota. Rotas para o Norte podem levar ate 10 dias uteis. Para Sul/Sudeste, mais de 3 dias parado e estranho. Abra um chamado de rastreamento e classifique como prioridade alta se for Gold ou se o valor da carga for acima de R$ 50.000.
+
+Item 32 - "Pode enviar carga perigosa com frete expresso?"
+
+Sim, mas precisa de autorizacao do Compliance e a documentacao ANTT tem que estar atualizada. Na pratica, demora uns 2 dias para conseguir a autorizacao, entao o expresso acaba nao sendo tao expresso. Avise o cliente sobre isso.
+
+Item 38 - "Cliente quer saber a politica para carga que chegou danificada."
+
+Carga danificada em transito tem processo diferente de devolucao. O cliente precisa registrar a ocorrencia em ate 48h apos o recebimento, com fotos e laudo se possivel. A NovaTech investiga e, se comprovada responsabilidade nossa, reembolsa integralmente. Mas isso passa pelo Juridico, nao pelo atendimento normal - encaminhe para o e-mail sinistros@novatech.com.br.
+
+Item 41 - "Qual a diferenca entre SLA de resposta e SLA de resolucao?"
+
+Resposta e quando a gente da o primeiro retorno ao cliente (mesmo que seja estamos verificando). Resolucao e quando o problema e efetivamente resolvido. O Gold tem 2h de resposta e 24h de resolucao. Silver e 4h e 48h. Standard e 8h e 72h. Para incidentes criticos, os prazos sao menores - veja a tabela SLA-2024.
+
+Item 45 - "O cliente quer desconto no frete. Posso dar?"
+
+Atendente nao tem autonomia para dar desconto. Para clientes com mais de 10 fretes especiais por mes, existe desconto automatico na tabela (veja PROC-042). Para outros casos, encaminhe ao Comercial com justificativa.

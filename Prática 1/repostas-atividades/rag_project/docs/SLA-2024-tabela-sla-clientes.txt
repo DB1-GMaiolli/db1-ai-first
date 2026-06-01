@@ -1,0 +1,55 @@
+SLA-2024 - Tabela de SLA por Tipo de Cliente
+
+Versao: 2024.1
+Ultima atualizacao: 02/01/2024
+Responsavel: Diretoria Comercial + Diretoria de Operacoes
+Classificacao: Documento contratual - os SLAs listados aqui sao compromissos formais com o cliente
+
+1. Classificacao de clientes
+
+A NovaTech classifica seus clientes em 3 (tres) tiers com base no volume mensal de operacoes e no valor do contrato:
+
+Gold: Contrato anual acima de R$ 500.000 OU mais de 200 operacoes/mes. Revisao semestral.
+Silver: Contrato anual entre R$ 100.000 e R$ 500.000 OU entre 50 e 200 operacoes/mes. Revisao semestral.
+Standard: Todos os demais clientes. Revisao anual.
+
+Nota: Nao existem outros tiers alem dos tres listados acima. Solicitacoes de SLA diferenciado fora desses tiers devem ser encaminhadas ao Comercial para analise de viabilidade.
+
+2. Tabela de SLAs
+
+SLAs para chamados gerais:
+- Gold: resposta em ate 2h uteis, resolucao em ate 24h uteis.
+- Silver: resposta em ate 4h uteis, resolucao em ate 48h uteis.
+- Standard: resposta em ate 8h uteis, resolucao em ate 72h uteis.
+
+SLAs para incidentes criticos:
+- Gold: resposta em ate 30min, resolucao em ate 4h.
+- Silver: resposta em ate 1h, resolucao em ate 8h.
+- Standard: resposta em ate 2h, resolucao em ate 24h.
+
+Disponibilidade do portal de tracking:
+- Gold: 99,5%
+- Silver: 99,0%
+- Standard: 98,0%
+
+Gerente de conta dedicado: Gold: Sim. Silver: Nao. Standard: Nao.
+Relatorio mensal de performance: Gold: Sim (detalhado). Silver: Sim (resumido). Standard: Sob demanda.
+
+3. Definicao de incidente critico
+
+Um incidente e classificado como critico quando atende a pelo menos um dos seguintes criterios:
+
+- Carga com valor declarado acima de R$ 100.000 esta com status desconhecido ha mais de 6 horas.
+- Carga perigosa com qualquer irregularidade de documentacao ou rastreamento.
+- Mais de 5 chamados do mesmo cliente nas ultimas 24 horas sobre o mesmo problema.
+- Qualquer situacao que envolva risco a seguranca de pessoas.
+
+4. Penalidades por descumprimento de SLA
+
+- Primeira violacao de SLA no mes: registro interno, sem impacto contratual.
+- Segunda violacao no mesmo mes: credito de 5% sobre o valor do frete do chamado afetado.
+- Terceira violacao ou mais no mesmo mes: credito de 10% + reuniao obrigatoria com o gerente de conta (Gold) ou gerente de operacoes (Silver/Standard).
+
+5. Medicao e reportes
+
+Os SLAs sao medidos pelo sistema de chamados (Azure DevOps) a partir do timestamp de abertura do chamado. O relogio de SLA pausa fora do horario comercial (08h-18h, dias uteis) para chamados gerais, mas nao pausa para incidentes criticos de clientes Gold.
